@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ihab3244.github.io/csb-1evkod/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ihab3244.github.io/csb-1evkod/static/js/main.6a9f0c7d.chunk.js",
+    "main.js.map": "https://ihab3244.github.io/csb-1evkod/static/js/main.6a9f0c7d.chunk.js.map",
+    "runtime-main.js": "https://ihab3244.github.io/csb-1evkod/static/js/runtime-main.5cf9895f.js",
+    "runtime-main.js.map": "https://ihab3244.github.io/csb-1evkod/static/js/runtime-main.5cf9895f.js.map",
+    "static/js/2.f428b53b.chunk.js": "https://ihab3244.github.io/csb-1evkod/static/js/2.f428b53b.chunk.js",
+    "static/js/2.f428b53b.chunk.js.map": "https://ihab3244.github.io/csb-1evkod/static/js/2.f428b53b.chunk.js.map",
+    "index.html": "https://ihab3244.github.io/csb-1evkod/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ihab3244.github.io/csb-1evkod/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f428b53b.chunk.js.LICENSE.txt": "https://ihab3244.github.io/csb-1evkod/static/js/2.f428b53b.chunk.js.LICENSE.txt",
+    "static/media/test-doc.docx": "https://ihab3244.github.io/csb-1evkod/static/media/test-doc.7439d875.docx",
+    "static/media/test-excelaki.xlsx": "https://ihab3244.github.io/csb-1evkod/static/media/test-excelaki.3aabe474.xlsx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf9895f.js",
+    "static/js/2.f428b53b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6a9f0c7d.chunk.js"
+  ]
+}
